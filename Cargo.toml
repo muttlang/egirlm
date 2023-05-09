@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 matrix-sdk = "0.6.2"
+json = "0.12.4"
