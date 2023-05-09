@@ -1,0 +1,4 @@
+Make login work
+Use JSON to hold username, login-device, and homeserver 
+Figure out where to put passwords (???)
+
